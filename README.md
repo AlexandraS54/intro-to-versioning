@@ -8,3 +8,4 @@ Fast links:
 - [command-line-quickstart](content/command-line-quickstart.md)
 - [installing-git](content/installing-git.md)
 - [linux-terminal-commands-cheatsheet](content/linux-terminal-command-reference.md)
+erzhgui
